@@ -1,0 +1,8 @@
+.idea/
+**/*.tfstate
+**/*.tfstate.*
+**/*.lock.*
+.terraform/
+*.tfvars
+*.tfplan
+terraform.*
